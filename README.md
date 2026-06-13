@@ -1,117 +1,28 @@
-# Hi there 👋 I'm S L Nithish Bharathi
+## Hi there 👋 It's me NITHISH BHARATHI
 
-### 🎓 Electronics and Communication Engineering Student
+JAVA - FULL STACK - DEVELOPER 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+                                                
+- 🌱 I’m currently learning Spring boot  and Integrating AI to my workflow
+- Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
+<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+- Social Presence
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
 
-* 🎓 Final Year ECE Student at Loyola ICAM College of Engineering and Technology
-* 💻 Passionate Full Stack Developer and Website Designer
-* 🌱 Currently learning Spring Boot and Advanced Backend Development
-* 🚀 Interested in creating attractive and user-friendly web applications
-* 🔭 Working on Full Stack Development, IoT Projects, and Cloud-Based Solutions
-* ⚡ Fun Fact: I enjoy transforming ideas into real-world web applications and IoT solutions
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
 
-## 🌐 Connect With Me
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 
-* GitHub: https://github.com/slnithishbharathi-droid
-* LinkedIn: [www.linkedin.com/in/nithish-bharathi-](http://www.linkedin.com/in/nithish-bharathi-)
-* Instagram: https://www.instagram.com/nithishzz0913
 
----
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-## 💻 Tech Stack
 
-### Programming Languages
 
-* Java
-* Python
-* C++
-* JavaScript
 
-### Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-
-### Backend Development
-
-* Java
-* Spring Boot
-
-### Database
-
-* MySQL
-
-### IoT & Hardware
-
-* Arduino
-* IoT Systems
-* Cloud Integration
-
----
-
-## 🚀 Projects
-
-### 🌐 Freelance Business Websites
-
-* Successfully developed and delivered 3 professional business websites for clients.
-* Focused on responsive design, performance, and user experience.
-
-### 🎉 College Symposium Website
-
-* Team project developed for the college symposium.
-* Managed frontend design and website functionality.
-
-### 🔥 Smart Fire Suppression System
-
-* Arduino-based fire detection and suppression prototype.
-* Utilized sensors for early fire detection and automated response.
-
-### 🗳️ Fingerprint Voting System
-
-* Secure electronic voting system using biometric authentication.
-
-### 🚧 Pothole Detection System
-
-* Smart road monitoring system for detecting potholes and reporting road conditions.
-
-### 🏠 IoT Home Automation System
-
-* Connected home appliances using IoT and cloud technologies.
-* Enabled remote monitoring and control.
-
-### 🪑 Posture Correction System for IT Employees
-
-* Developed a smart posture monitoring solution to improve workplace ergonomics.
-
----
-
-## 🛠️ Tools & Technologies
-
-* IntelliJ IDEA
-* Visual Studio Code
-* Git & GitHub
-* Figma
-* Canva
-* XAMPP
-* MySQL Workbench
-
----
-
-## 📈 Currently Exploring
-
-* Spring Boot
-* REST APIs
-* Full Stack Java Development
-* Cloud Computing
-* System Design
-
----
-
-## 🎯 Career Objective
-
-Aspiring Software Engineer and Full Stack Developer passionate about building scalable web applications and innovative IoT solutions. Seeking opportunities to apply technical skills, problem-solving abilities, and creativity to develop impactful software products.
-
-⭐ Always eager to learn new technologies and contribute to meaningful projects.
