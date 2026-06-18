@@ -11,6 +11,18 @@
 ##  About Me
 
 ```javascript
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ECE+Student+%7C+Front-End+Developer;IoT+Systems+%7C+Full-Stack+in+Progress;Building+real-world+tech+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+### About Me
+- 🎓 Electronics & Communication Engineering student at **LICET, Chennai** (Class of 2027)
+- 💻 Front-end developer skilled in **React, JavaScript, HTML/CSS, Bootstrap**
+- 🔧 Expanding into back-end with **Java, Spring Boot, Node.js, MySQL**
+- 🌐 Passionate about **IoT systems** — NodeMCU, Blynk, sensor-driven real-world projects
+- 🚀 Delivered freelance projects: e-commerce sites, delivery platforms, portfolio builds
+- 🏆 3rd Runner-Up, **TechHack 2.0 Hackathon**
+- 📫 Reach me at **nithishbharathi.27ec@licet.ac.in**
 
 ```
 
