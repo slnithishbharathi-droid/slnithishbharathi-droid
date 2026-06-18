@@ -6,24 +6,6 @@
 
 </div>
 
----
-
-##  About Me
-
-```javascript
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ECE+Student+%7C+Front-End+Developer;IoT+Systems+%7C+Full-Stack+in+Progress;Building+real-world+tech+solutions+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-### About Me
-I'm an Electronics & Communication Engineering student at **LICET, Chennai**, with a strong passion for software development and modern technology. I enjoy building user-friendly, real-world applications and continuously exploring new tools to grow as a developer. Always curious, always learning, and excited to turn ideas into impactful digital solutions.
-
-📫 Reach me at **nithishbharathi.27ec@licet.ac.in**
-
-
-```
-
----
 
 ##  Tech Stack
 
