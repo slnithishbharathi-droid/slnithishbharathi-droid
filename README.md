@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```javascript
 const nithish = {
@@ -37,7 +37,7 @@ const nithish = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -70,7 +70,7 @@ const nithish = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slnithishbharathi-droid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
@@ -83,13 +83,13 @@ const nithish = {
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=slnithishbharathi-droid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FF6B6B" width="100%" />
 
 ---
 
-## 🏆 Trophies
+##  Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=slnithishbharathi-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
@@ -97,46 +97,46 @@ const nithish = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |:--|:--|:--|
-| 🛒 **E-Commerce Website** *(Freelance)* | React, Bootstrap, JS | Responsive product catalogue with cart; delivered with post-launch support |
-| 🚚 **Delivery Service Website** *(Freelance)* | React, Bootstrap, JS | Order-tracking UI & contact forms; cross-browser optimised |
-| 🗳️ **Fingerprint Voting System** | Biometrics, Microcontroller | Secure auth eliminating duplicate votes |
-| 💧 **Water Level Monitoring** | NodeMCU, Blynk, Sensors | Real-time monitoring + automatic motor control via Blynk app |
-| 🪑 **Posture Correction System** | Sensors, Microcontroller | Real-time feedback to reduce health issues from prolonged sitting |
-| ☁️ **IoT Cloud Integration** | IoT, Cloud, NodeMCU | Real-time data monitoring & remote access across connected devices |
+|  **E-Commerce Website** *(Freelance)* | React, Bootstrap, JS | Responsive product catalogue with cart; delivered with post-launch support |
+|  **Delivery Service Website** *(Freelance)* | React, Bootstrap, JS | Order-tracking UI & contact forms; cross-browser optimised |
+|  **Fingerprint Voting System** | Biometrics, Microcontroller | Secure auth eliminating duplicate votes |
+|  **Water Level Monitoring** | NodeMCU, Blynk, Sensors | Real-time monitoring + automatic motor control via Blynk app |
+|  **Posture Correction System** | Sensors, Microcontroller | Real-time feedback to reduce health issues from prolonged sitting |
+|  **IoT Cloud Integration** | IoT, Cloud, NodeMCU | Real-time data monitoring & remote access across connected devices |
 
 </div>
 
 ---
 
-## 🎖️ Achievements
+##  Achievements
 
 <div align="center">
 
 | Achievement | Details |
 |:--|:--|
-| 🥉 **TechHack 2.0 Hackathon** | 3rd Runner Up |
-| 📜 **Symposium Participation** | Certificate Awarded |
-| ✅ **Front-End Development Cert** | HTML, CSS, JS, React, Bootstrap, GitHub — Completed |
-| 🔄 **Back-End Development Cert** | PHP, MySQL, Node.js — In Progress |
+|  **TechHack 2.0 Hackathon** | 3rd Runner Up |
+|  **Symposium Participation** | Certificate Awarded |
+|  **Front-End Development Cert** | HTML, CSS, JS, React, Bootstrap, GitHub — Completed |
+|  **Back-End Development Cert** | PHP, MySQL, Node.js — In Progress |
 
 </div>
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.E. – Electronics & Communication Engineering**
 Loyola ICAM College of Engineering & Technology, Chennai — *2023 → 2027*
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 ```text
 Spring Boot          ████████░░░░░░░░░░░░  40%
@@ -147,7 +147,7 @@ REST API Design      █████████░░░░░░░░░░�
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
