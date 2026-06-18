@@ -16,13 +16,10 @@
 </p>
 
 ### About Me
-- 🎓 Electronics & Communication Engineering student at **LICET, Chennai** (Class of 2027)
-- 💻 Front-end developer skilled in **React, JavaScript, HTML/CSS, Bootstrap**
-- 🔧 Expanding into back-end with **Java, Spring Boot, Node.js, MySQL**
-- 🌐 Passionate about **IoT systems** — NodeMCU, Blynk, sensor-driven real-world projects
-- 🚀 Delivered freelance projects: e-commerce sites, delivery platforms, portfolio builds
-- 🏆 3rd Runner-Up, **TechHack 2.0 Hackathon**
-- 📫 Reach me at **nithishbharathi.27ec@licet.ac.in**
+I'm an Electronics & Communication Engineering student at **LICET, Chennai**, with a strong passion for software development and modern technology. I enjoy building user-friendly, real-world applications and continuously exploring new tools to grow as a developer. Always curious, always learning, and excited to turn ideas into impactful digital solutions.
+
+📫 Reach me at **nithishbharathi.27ec@licet.ac.in**
+
 
 ```
 
