@@ -11,28 +11,7 @@
 ##  About Me
 
 ```javascript
-const nithish = {
-  name:               "Nithish Bharathi S.L",
-  location:           "Chennai, Tamil Nadu, India 🇮🇳",
-  degree:             "B.E. – Electronics & Communication Engineering (2027)",
-  college:            "Loyola ICAM College of Engineering & Technology",
-  email:              "slnithishbharathi@gmail.com",
 
-  stack: {
-    frontend:         ["React.js", "JavaScript", "HTML5", "CSS3", "Bootstrap"],
-    backend:          ["Node.js", "Express.js", "Spring Boot", "PHP"],
-    databases:        ["MySQL"],
-    iot:              ["NodeMCU", "Blynk", "Fingerprint Sensors"],
-    tools:            ["Git", "GitHub", "Figma", "REST APIs", "Axios"],
-    languages:        ["Java", "JavaScript"],
-  },
-
-  currentlyLearning: ["Spring Boot", "Node.js (advanced)", "MySQL optimisation"],
-
-  funFact:           "I built a posture-correction system... and still hunch over my keyboard.",
-
-  motto:             () => "Ship it. Iterate. Make it matter.",
-};
 ```
 
 ---
