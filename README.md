@@ -9,7 +9,7 @@
 </a>
 </div>
 ---
-<!-- CODE-BLOCK ABOUT ME -->
+< CODE-BLOCK ABOUT 
 👨‍💻 `about_me.js`
 ```javascript
 const nithish = {
@@ -59,30 +59,30 @@ IoT & Hardware
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=flat-square&logo=blynk&logoColor=white)
 ---
-<!-- GITHUB STATS -->
+< GITHUB STATS -->
 📊 GitHub Stats
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NithishBharathi27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishBharathi27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
-<!-- STREAK STATS -->
+< STREAK STATS -->
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=NithishBharathi27&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" />
 </div>
 ---
-<!-- ACTIVITY GRAPH -->
+< ACTIVITY GRAPH -->
 📈 Contribution Activity
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishBharathi27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FF6B6B" width="100%" />
 </div>
 ---
-<!-- TROPHY WALL -->
+<TROPHY WALL -->
 🏆 Trophy Wall
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=NithishBharathi27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </div>
 ---
-<!-- FEATURED PROJECTS -->
+<FEATURED PROJECTS -->
 🚀 Featured Projects
 <div align="center">
 🔧 Project	💻 Stack	📌 Highlights
@@ -94,7 +94,7 @@ IoT & Hardware
 ☁️ IoT Cloud Integration	IoT, Cloud Platform, NodeMCU	Real-time data monitoring & remote access across connected devices
 </div>
 ---
-<!-- ACHIEVEMENTS -->
+<ACHIEVEMENTS -->
 🎖️ Achievements & Certifications
 <div align="center">
 🏅 Achievement	📋 Details
@@ -104,7 +104,7 @@ IoT & Hardware
 🔄 Back-End Development	In Progress — PHP, MySQL, Node.js
 </div>
 ---
-<!-- EDUCATION + CURRENTLY LEARNING -->
+< EDUCATION + CURRENTLY LEARNING -->
 🎓 Education
 <details>
 <summary><b>B.E. – Electronics & Communication Engineering</b> — Loyola ICAM College of Engineering & Technology, Chennai (2023 – 2027)</summary>
@@ -120,7 +120,7 @@ IoT & Hardware
 🔗 REST API Design   █████████░░░░░░░░░░░  45%
 ```
 ---
-<!-- CONNECT -->
+< CONNECT -->
 📬 Let's Connect
 <div align="center">
 ![Email](https://img.shields.io/badge/Email-nithishbharathi.27ec@licet.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)
@@ -131,7 +131,7 @@ IoT & Hardware
 <div align="center">
 ![Visitor Badge](https://komarev.com/ghpvc/?username=NithishBharathi27&style=flat-square&color=70A5FD&label=Profile+Views)
 "Ship it. Iterate. Make it matter."
-<!-- FOOTER WAVE -->
+< FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 </div>
 
