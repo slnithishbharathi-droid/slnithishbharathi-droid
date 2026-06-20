@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nithish%20Bharathi%20S.L&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ECE%20Student%20%7C%20Front-End%20Developer%20%7C%20IoT%20Builder&descAlignY=58&descSize=18" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,100:38EF7D&height=200&section=header&text=Meena%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20ECE%20Student%20|%20Web%20Development%20Learner&descAlignY=58&descSize=18" width="100%" />
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Nithish+%F0%9F%91%8B;ECE+Student+%7C+Full-Stack+Dev+%7C+IoT+Enthusiast;Building+UIs+that+feel+native%2C+not+bolted-on;From+React+components+to+NodeMCU+circuits+%E2%9A%A1)](https://git.io/typing-svg)
